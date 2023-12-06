@@ -48,9 +48,8 @@ ul {
 	.flex {
 		gap: 1rem;
 	}
-
 	.projects-image {
-		width: 10rem;
+		width: 15rem;
 		height: auto;
 	}
 }
