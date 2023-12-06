@@ -20,6 +20,7 @@ ul {
 	flex-flow: row nowrap;
 	flex-basis: fit-content;
 	gap: 2rem;
+	padding-bottom: 2rem;
 }
 
 .flex1 {
@@ -47,6 +48,7 @@ ul {
 	}
 	.flex {
 		gap: 1rem;
+		padding-bottom: 1rem;
 	}
 	.projects-image {
 		width: 15rem;
